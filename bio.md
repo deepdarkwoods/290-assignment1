@@ -8,3 +8,5 @@
 -Playing golf
 
 ##Programming Background
+
+-Wrote a fantasy battle game in CS 261
