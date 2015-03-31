@@ -10,3 +10,4 @@
 ##Programming Background
 
 -Wrote a fantasy battle game in CS 261
+-Created a text based football game, allowing users to call plays and formations
