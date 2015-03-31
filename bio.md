@@ -12,7 +12,11 @@
 
 -Playing guitar, usually in the game Rocksmith
 
+-I like to read in Sci-Fi genre of books
+
 ##Programming Background
 
 -Wrote a fantasy battle game in CS 261
 -Created a text based football game, allowing users to call plays and formations
+
+
